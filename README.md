@@ -8,4 +8,4 @@ Solving Multi-Agent Path Finding by Constraining Multiple Agents
 4. Run the code, resuts should appear in users home directory.
 
 ## Scenarios
-for large agents you shoud specify the size of an agents in the last two columns of .scen file
+For large agents you shoud specify the size of an agents in the last two columns of .scen file
